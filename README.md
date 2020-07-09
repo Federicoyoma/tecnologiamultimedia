@@ -7,11 +7,13 @@ Acción: Click en botón “créditos”, te lleva a pantalla 2. Click en botón
 Pantalla 2: 
 Descripción: Fondo negro con texto de color deslizándose de abajo hacia arriba.
 Texto: Aventura grafica realizada por Federico Yoma, estudiante de la carrera diseño multimedial en la unlp. El libro cuenta la historia de Charlie Bucket, un niño que vive con sus padres y abuelos en una casa bastante ruinosa, ya que carecen de recursos. Su situación empeora aún más cuando su padre es despedido de su trabajo. Entre tanta miseria, Charlie y su abuelo Joe sueñan con visitar la Fábrica de Chocolate del célebre Willy Wonka, un misterioso chocolatero que lleva años sin dejarse ver en público. Parecía imposible, pero sucede un milagro: Willy Wonka decide escoger a cinco niños afortunados para visitar la fábrica, con tan buena suerte que Charlie resulta ser uno de ellos. Una vez dentro, conocerán al excéntrico dueño de la fábrica, en una aventura que nunca podrán olvidar.
+
 Acción: Botón que te permita volver a la pantalla 1.
 
 Pantalla 3: 
 Descripcion: Foto de un chocolate y texto
-Historia: Charlie era un niño muy pobre, que vivía acompañado por sus cuatro abuelos y sus padres. Por su cumpleaños Charlie solo recibía una sola tableta de chocolate, ya que sus padres no podían comprarle nada más.
+Historia: Charlie era un niño muy pobre, que vivía acompañado por sus cuatro abuelos y sus padres.La familia era tan pobre que no se podia permitir comer variado, por lo tanto cada dia comia lo mismo. Por su cumpleaños Charlie solo recibía una sola tableta de chocolate, ya que sus padres no podían comprarle nada más.Charlie cada dia pasaba por la enorme fabrica de chocolate y cuando olia aquel agradable aroma, cerraba los ojos y deseaba saborearlo.
+
 Acción: Botón “Continuar leyendo”, que te permite ir a la pantalla 4 para continuar con la historia. 
 
 Pantalla 4
@@ -24,12 +26,12 @@ El botón de la derecha dice: “Buscar billetes, pero robando los chocolates”
 
   Pantalla 5 
 Descripción: foto de un billete dorado y texto.  
-Historia: Has decidido que Charlie no busque los billetes, entonces, se quedara en su casa mirando la televisión junto a su familia, mientras día a día, van apareciendo los afortunados que han encontrado ese billete dorado.    
+Historia: Por la noche, Charlie, al acabar de comer iba a la habitacion de sus abuelos que siempre le contaban historias. Esa noche Charlie les pregunto sobre la fabrica de chocolate, y ellos le contaron lo mismo que la habia contado el padre, que esa fabrica era la mas grande del mundo, pero que anteriormente habia sido cerrada.Has decidido que Charlie no busque los billetes, entonces, se quedara en su casa mirando la televisión junto a su familia, mientras día a día, van apareciendo los afortunados que han encontrado ese billete dorado.     
 Acción: Botón “continuar con la historia”, que te manda a la pantalla 6.     
 
 Pantalla 6
 Descripción: Misma foto que la pantalla 5 y texto.
-Historia: Pero un día, el abuelo de Charlie saco su monedero y le dio lo necesario para comprar los chocolates Wonka. Entonces, Charlie fue corriendo a la tienda mas cercana y compro una tableta de chocolate. Esa tableta contenía el billete dorado!!
+Historia: Pero un día, el abuelo de Charlie,Joe, le dijo que se acercara poco a poco sin hacer ruido,ya que sus otros abuelos estaban durmiendo. saco su monedero y le dio lo necesario para comprar los chocolates Wonka. Entonces, Charlie fue corriendo a la tienda mas cercana y compro una tableta de chocolate. Esa tableta contenía el billete dorado!!
 Acción: Botón “continuar con la historia”, que te manda a la pantalla 7.
      
 Pantalla 7
@@ -42,12 +44,12 @@ El botón de la derecha dice: “Seguir el recorrido”, y si lo seleccionas, te
 
 Pantalla 8
 Descripción: Misma foto que la pantalla 7, y texto.
-Historia: Charlie decidió tomar del lago de chocolate pero algo salió mal. Charlie se cayó al lago y lo succiono una maquina que lo llevo a las afueras de la fabrica.
+Historia: Charlie despues de pensarlo mucho tiempo decidio finalmente separarse del grupo y tomar del lago de chocolate, ya que pensaba que nada malo le podia llegar a pasar, pero algo salió mal. Sin darse cuenta se acerco tanto al lago que se cayó y lo succiono una maquina que lo llevo a las afueras de la fabrica.
 Acción: Como eligieron la opción “incorrecta”, aparecerá un botón que dice “volver y elegir el otro camino”, que te mandara a la pantalla 7.
 
 Pantalla 9
 Descripción: Foto que diga “Fin de la historia” y texto.
-Historia: Charlie ha decidido seguir el recorrido junto a los otros chicos ganadores del billete dorado. El señor Wonka, dueño de la fábrica, le pregunto a Charlie si le gustaba la fábrica. Charlie sin dudarlo le dijo que si, y entonces, el señor Wonka le regalo su fábrica. FIN.
+Historia: Charlie ha decidido seguir el recorrido junto a los otros chicos ganadores del billete dorado. Finalmente, despues de todo el recorrido el señor Wonka, dueño de la fábrica, le pregunto a Charlie donde vivia,y Charlie busco por todo el pueblo hasta que le señalo la casa. Entonces, Wonka le pregunto seriamente si le gustaba la fabrica, y charlie sin pensarlo le dijo que le encantaba.Entonces Wonka le dijo que se la regalaba ya que el no la necesitaba mas. Charlie y su familia vivirian y mandarian en la fabrica por el resto de sus vidas.
 Acción: Aparecerá un botón que diga “Fin de la historia, presione aquí para volver a la pantalla 1”. 
 
 Pantalla 10
@@ -64,5 +66,5 @@ Acción: Botón que te permita volver a la pantalla 10 y elegir la otra opción 
 
 Pantalla 12
 Descripción: Foto representando “algo ha salido mal”, y texto.
-Historia: Charlie ha decidido robar los chocolates en el día. Tan solo faltando 5 días para que termine el tiempo, Charlie los roba, pero lamentablemente lo descubre el dueño del local y se los saca. Charlie no ha podido conseguir el billete dorado que tanto deseaba.
-Acción: Botón que diga “Volver al inicio de la historia y escoger otro camino”, y te mande directamente a la pantalla 1.
+Historia: Charlie un dia se desperto y sin hacer ruido se fue temprano de su casa para poder robar esos chocolates que el tanto deseaba. Tan solo faltando 5 días para que termine el tiempo, Charlie logra robarlos, pero lamentablemente, cuando estaba por salir del local lo descubre el dueño y se los saca. Charlie no ha podido conseguir el billete dorado que el tanto deseaba.
+volver al inicio de la historia y escoger otro camino”, y te mande directamente a la pantalla 1.
