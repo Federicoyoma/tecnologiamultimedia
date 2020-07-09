@@ -5,7 +5,7 @@ Historia: no hay historia, solo el título del libro.
 Acción: Click en botón “créditos”, te lleva a pantalla 2. Click en botón “iniciar historia”, te lleva a pantalla 3.
 
 Pantalla 2: 
-Descripción: Fondo negro con texto de color deslizándose de abajo hacia arriba.
+Descripción: Foto de bosque con lluvia y texto deslizándose de abajo hacia arriba.
 Texto: Aventura grafica realizada por Federico Yoma, estudiante de la carrera diseño multimedial en la unlp. El libro cuenta la historia de Charlie Bucket, un niño que vive con sus padres y abuelos en una casa bastante ruinosa, ya que carecen de recursos. Su situación empeora aún más cuando su padre es despedido de su trabajo. Entre tanta miseria, Charlie y su abuelo Joe sueñan con visitar la Fábrica de Chocolate del célebre Willy Wonka, un misterioso chocolatero que lleva años sin dejarse ver en público. Parecía imposible, pero sucede un milagro: Willy Wonka decide escoger a cinco niños afortunados para visitar la fábrica, con tan buena suerte que Charlie resulta ser uno de ellos. Una vez dentro, conocerán al excéntrico dueño de la fábrica, en una aventura que nunca podrán olvidar.
 
 Acción: Botón que te permita volver a la pantalla 1.
@@ -30,12 +30,12 @@ Historia: Por la noche, Charlie, al acabar de comer iba a la habitacion de sus a
 Acción: Botón “continuar con la historia”, que te manda a la pantalla 6.     
 
 Pantalla 6
-Descripción: Misma foto que la pantalla 5 y texto.
+Descripción: Foto de charlie agarrando el billete dorado y texto.
 Historia: Pero un día, el abuelo de Charlie,Joe, le dijo que se acercara poco a poco sin hacer ruido,ya que sus otros abuelos estaban durmiendo. saco su monedero y le dio lo necesario para comprar los chocolates Wonka. Entonces, Charlie fue corriendo a la tienda mas cercana y compro una tableta de chocolate. Esa tableta contenía el billete dorado!!
 Acción: Botón “continuar con la historia”, que te manda a la pantalla 7.
      
 Pantalla 7
-Descripción: Foto de una escena del libro y texto.
+Descripción: Foto Wonka y la fabrica de chocolate y texto.
 Historia: Finalmente entraron a la fábrica y la comenzaron a recorrer, cuando de repente Charlie encuentra un lago de chocolate y entonces comienza a dudar si tomar de ese lago, o seguir recorriendo la fabrica junto a los otros chicos.
 Acción: Hay una pregunta que es: ¿Qué decides hacer?
  Hay dos botones, uno a la izquierda y otro a la derecha.
@@ -43,12 +43,12 @@ El Botón de la izquierda dice: “Tomar del lago de chocolate”, y si lo selec
 El botón de la derecha dice: “Seguir el recorrido”, y si lo seleccionas, te manda a la pantalla 9. 
 
 Pantalla 8
-Descripción: Misma foto que la pantalla 7, y texto.
+Descripción: Imagen del lago de chocolate, y texto.
 Historia: Charlie despues de pensarlo mucho tiempo decidio finalmente separarse del grupo y tomar del lago de chocolate, ya que pensaba que nada malo le podia llegar a pasar, pero algo salió mal. Sin darse cuenta se acerco tanto al lago que se cayó y lo succiono una maquina que lo llevo a las afueras de la fabrica.
 Acción: Como eligieron la opción “incorrecta”, aparecerá un botón que dice “volver y elegir el otro camino”, que te mandara a la pantalla 7.
 
 Pantalla 9
-Descripción: Foto que diga “Fin de la historia” y texto.
+Descripción: Foto del billete dorado y texto.
 Historia: Charlie ha decidido seguir el recorrido junto a los otros chicos ganadores del billete dorado. Finalmente, despues de todo el recorrido el señor Wonka, dueño de la fábrica, le pregunto a Charlie donde vivia,y Charlie busco por todo el pueblo hasta que le señalo la casa. Entonces, Wonka le pregunto seriamente si le gustaba la fabrica, y charlie sin pensarlo le dijo que le encantaba.Entonces Wonka le dijo que se la regalaba ya que el no la necesitaba mas. Charlie y su familia vivirian y mandarian en la fabrica por el resto de sus vidas.
 Acción: Aparecerá un botón que diga “Fin de la historia, presione aquí para volver a la pantalla 1”. 
 
